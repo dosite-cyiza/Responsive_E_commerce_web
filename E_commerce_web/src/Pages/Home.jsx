@@ -5,8 +5,8 @@ const Home =() =>{
         
         <div>
             <Sidebar/>
-            <div>
-                <Main/>
+            <div className='m-[80px]'>
+                <Main />
             </div>
         </div>
         
